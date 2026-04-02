@@ -49,3 +49,5 @@ This project analyzes dress attributes and predicts whether a dress will be reco
 
 ## 👩‍💻 Author
 > Data Analytics Assignment | Python | Pandas | Seaborn | Matplotlib | Plotly
+>
+> > 💡 For interactive charts, view this notebook on [nbviewer](https://nbviewer.org)
